@@ -10,3 +10,5 @@ bundle=joblib.load("smartdeal_bunddle.joblib")
 model=bundle["model"]
 tolerance =model["tolerance "]
 features=bundle["features"]
+
+
