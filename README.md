@@ -1,5 +1,5 @@
 # 🚗 SmartDeal
-
+## https://samrt-deal.streamlit.app/
 SmartDeal is a machine learning app that estimates the fair price of a used car and compares it with the seller's asking price.
 
 It then gives a simple verdict:
