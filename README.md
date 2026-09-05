@@ -64,26 +64,22 @@ MAPE	                           12.58%
 ## Tech Stack
 
 - Python
--Pandas
+  
+- Pandas
+  
 -NumPy
+
 -Scikit-learn
+
 -Random Forest
+
 -Streamlit
+
 -Joblib
+
 -Matplotlib
 
 ---
-
-## Project Structure
-
-SmartDeal/
-│
-├── app.py
-├── deal_logic.py
-├── smartdeal_bunddle.joblib
-├── SmartDeal.ipynb
-└── README.md
-Run Locally
 
 
 ## Install dependencies:
